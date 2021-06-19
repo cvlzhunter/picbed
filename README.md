@@ -1,2 +1,2 @@
-# FreePicBed
+# picbed
 Store pictures.
